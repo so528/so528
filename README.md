@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm So Hyunwoo
 
-<!--
-**so528/so528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me
+- 🎓 Freshman Physics Student (Class of 2024)
+- 💻 Double majoring in Computer Science
+- 🌱 Currently learning Java and PyTorch
+- 🚀 Interested in AI, Machine Learning, and Software Development
+- 📖 Exploring philosophy, ethics, and the impact of AI on society
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** Python, C, Java (learning)
+- **Frameworks & Libraries:** Django, PyTorch (learning)
+- **Tools:** Git, VSCode, Jupyter Notebook
+- **Other Skills:** Data Structures & Algorithms, Object-Oriented Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Projects
+- 🔹 Implementing AI-driven stock price analysis
+- 🔹 Creating a survival game with Pygame
+- 🔹 Studying Java for object-oriented programming
+
+## 📚 Learning Goals
+- ☑ Master Java and OOP concepts
+- ☑ Improve problem-solving skills with algorithm challenges (Baekjoon, etc.)
+- ☑ Gain hands-on experience with AI & ML (PyTorch)
+
+## 📫 Get in Touch
+- 🔗 GitHub: [so528](https://github.com/so528)
+- ✉️ Email: [your_email@example.com] (선택 사항)
+
+Thanks for visiting! 🚀
